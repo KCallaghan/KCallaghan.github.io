@@ -926,6 +926,20 @@ ul.footer-grid-list li span{
 .about-grids-left h4 a:hover{
 	color:#212121;
 }
+.about-grids-right h4 {
+    font-size: 1.1em;
+    color: #6EB1DB;
+	margin: 2em 0 0;
+    line-height: 1.5em;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+.about-grids-right h4 a{
+	text-decoration:none;
+}
+.about-grids-right h4 a:hover{
+	color:#212121;
+}
 .panel-heading-sub {
     padding:1em 0;
 }
