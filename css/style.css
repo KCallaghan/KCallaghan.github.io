@@ -13,7 +13,7 @@ p{
 	font-size:14px;
 }
 h1,h2,h3,h4,h5,h6{
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Verdana', sans-serif;
 	font-weight:100;
 	margin:0;
 }
@@ -50,7 +50,7 @@ body a:hover{
     color: #212121;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #999;
+    color: #666;
 }
 .navbar-nav > li > a {
     font-size: 14px;
@@ -331,7 +331,7 @@ body a:hover{
 }
 p.qui{
 	text-align:center;
-	color:#999;
+	color:#666;
 	line-height:1.8em;
 	margin:1em 0 0 !important;
 	font-weight: 500 !important;
@@ -545,7 +545,7 @@ p.qui{
     border-radius: 0;
     font-size: 1em;
     color: #999;
-	font-family: 'Oswald', sans-serif;
+	font-family: 'Verdana', sans-serif;
 	letter-spacing:1px;
 }
 .nav-tabs > li.active {
@@ -866,7 +866,7 @@ ul.footer-grid-list li span{
 /*-- //to-top --*/
 /*-- banner1 --*/
 .banner1{
-	background: url(../images/lake.jpg) no-repeat 0px 0px;
+	background: url(../images/ripples.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -909,7 +909,7 @@ ul.footer-grid-list li span{
 }
 .panel_text {
     font-size: 16px;
-    color: #999;
+    color: #666;
     line-height: 1.8em;
 }
 .about-grids-left h4 {
