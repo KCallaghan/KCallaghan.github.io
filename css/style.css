@@ -74,6 +74,9 @@ body a:hover{
     -webkit-flex-wrap: inherit;
     flex-wrap: inherit;
     list-style: none;
+    display: flex;
+    margin-left:0;
+    margin-right:0;
 }
 
 .menu__item {
@@ -300,6 +303,14 @@ body a:hover{
 /*-- w3layouts --*/
 /*-- //banner --*/
 /*-- services --*/
+
+.ScrollStyle
+{
+    max-height: 400px;
+    overflow-y: scroll;
+}
+
+
 .services,.testimonials,.about,.team,.pricing-plans,.typo,.gallery,.mail,.single{
 	padding:5em 0;
 }
